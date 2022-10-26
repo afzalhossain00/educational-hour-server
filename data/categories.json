@@ -1,34 +1,26 @@
 [
     {
         "id": "01",
-        "name": "Breaking News"
+        "name": "Data Structure"
     },
     {
         "id": "02",
-        "name": "Regular News"
+        "name": "Modern Javascript"
     },
     {
         "id": "03",
-        "name": "International News"
+        "name": "HTML5 Crash Course"
     },
     {
         "id": "04",
-        "name": "Sports"
+        "name": "Learn Git And GitHub"
     },
     {
         "id": "05",
-        "name": "Entertainment"
+        "name": "Learn ReactJS Quickly"
     },
     {
         "id": "06",
-        "name": "Culture"
-    },
-    {
-        "id": "07",
-        "name": "Arts"
-    },
-    {
-        "id": "08",
-        "name": "All News"
+        "name": "Learn Artificial Intelligence"
     }
 ]
