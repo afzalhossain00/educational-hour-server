@@ -1,26 +1,26 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Data Structure"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "Modern Javascript"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "HTML5 Crash Course"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Learn Git And GitHub"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Learn ReactJS Quickly"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Learn Artificial Intelligence"
     }
 ]
