@@ -3,36 +3,42 @@
         "id": "1",
         "title": "Data Structure",
         "image_url": "https://msatechnosoft.in/blog/wp-content/uploads/2018/09/Data-Structure-tutorial-MSA-Technosoft.jpg",
+        "price": "99",
         "details": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This video tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures."
     },
     {
         "id": "2",
         "title": "Modern Javascript",
         "image_url": "https://images.velog.io/images/soom/post/f3c5037c-207e-4620-a4ad-e3404946c861/6288755792019456.jpeg",
-        "details": "Javascript runs the web. It makes your website come alive. If you want to create magic with your websites or web apps, then you need Javascript. Period. You can literally do magic online with just Javascript. Just that. In this course, we hope to break down the beginner concepts of the Javascript programming language into manageable parts so you can learn them fast and retain the concepts much longer."
+        "price": "49",
+        "details": "Javascript runs the web. It makes your website come alive. If you want to create magic with your websites or web apps, then you need Javascript. Period. In this course, we hope to break down the beginner concepts of the Javascript programming language into manageable parts so you can learn them fast and retain the concepts much longer."
     },
     {
         "id": "3",
         "title": "HTML5 Crash Course",
         "image_url": "https://www.esenceweb.com/backend/uploads/HTML5-App-Development-esenceweb1.jpg",
-        "details": "This HTML5 course will be beneficial for all who are looking to start their career in the web development field and aspire to become a Frontend or Full-stack web developer. This HTML course will be the first step toward your goal to become a web developer. We start with exploring HTML Development using some of the most commonly used tags and attributes and the best code editor that you need to have. Anyone who wants to learn HTML, Basic Html Document Structure, HTML Head Tags, HTML Title Tags , HTML Lines , Comments tags, HTML Paragraph, Line Break tags, HTML Text Formatting Tags, HTML Elements, HTML Attributes Tags, HTML Image Tags, HTML List tags,  HTML Link Tag, HTML Inline , Block Elements, HTML Form, HTML5, HTML5 Content Model, HTML5 Structure, HTML5 Media Tags - Audio, HTML5 Media Tags - Video."
+        "price": "19",
+        "details": "This HTML5 course will be beneficial for all who are looking to start their career in the web development field and aspire to become a Frontend or Full-stack web developer. This HTML course will be the first step toward your goal to become a web developer. We start with exploring HTML Development using some of the most commonly used tags and attributes."
     },
     {
         "id": "4",
         "title": "Learn Git And GitHub",
         "image_url": "https://www.freecodecamp.org/news/content/images/2022/07/git-github.png",
-        "details": "You are going to learn everything that you need to know, to work with Git and GitHub for your day-to-day activities, as a developer, an administrator, a team lead, or anyone, working on software code delivery and management. And doing so efficiently. There are plenty of theory-based tutorials on Git and GitHub, but we are going to dive into the real-life examples just to get practical knowledge of how to manage our source codes, and to have some experience to put in your resume, in case you are looking for employment."
+        "price": "15",
+        "details": "You are going to learn everything that you need to know, to work with Git and GitHub for your day-to-day activities, as a developer, an administrator, a team lead, or anyone, working on software code delivery and management. We are going to dive into the real-life examples just to get practical knowledge of how to manage our source codes, and to have some experience to put in your resume, in case you are looking for employment."
     },
     {
         "id": "5",
         "title": "Learn ReactJS Quickly",
         "image_url": "https://cdn-images-1.medium.com/max/800/1*zRJjAN-REufPq8D8ZpQDeg.jpeg",
-        "details": "React is a javascript library for building UI (User Interface). It is a free and open-source javascript library maintained by Meta (Facebook). Tech giants like Facebook, Netflix, Salesforce, Yahoo, BBC, Airbnb, Asana, Cloudflare, Dropbox, Uber, Tesla, and much more use React for building websites. The best thing about React is the massive ecosystem that surrounds it, thousands of powerful and easy-to-configure libraries which simplify the process of building web apps using React. The main objective of this course is to teach you React in depth from scratch, step by step enabling you to build applications using React."
+        "price": "39",
+        "details": "React is a javascript library for building UI (User Interface). It is a free and open-source javascript library maintained by Meta (Facebook). Tech giants like Facebook, Netflix, Salesforce, Yahoo, BBC, Airbnb, Asana, Cloudflare, Dropbox, Uber, Tesla, and much more use React for building websites. The main objective of this course is to teach you React in depth from scratch, step by step enabling you to build applications using React."
     },
     {
         "id": "6",
         "title": "Learn Artificial Intelligence",
         "image_url": "https://keaeinc.files.wordpress.com/2020/05/savvycom-ai-lab.jpg",
-        "details": "This course is intended for educators, programmers, It technicians and students. This course aims at identifying artificial intelligence and machine learning and their importance especially in the future. It also aims at applying machinelearningforkids website that helps creating such activities. Artificial intelligence makes it possible for machines to learn from experience, adjust to new inputs and perform human like tasks. Most Artificial Intelligence examples that you hear about today like chess playing computers, roboadvisors and self-driving cars rely heavily on deep learning and natural language processing. Using these technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data. Artificial Intelligence technology is important as it enables human understanding, reasoning, planning, communication and perception  to be undertaken by software increasingly effectively."
+        "price": "89",
+        "details": "This course is intended for educators, programmers,technicians and students. Artificial intelligence makes it possible for machines to learn from experience, adjust to new inputs and perform human like tasks. Using these technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data. Artificial Intelligence technology is important as it enables human understanding, reasoning, planning, communication and perception  to be undertaken by software increasingly effectively."
     }
 ]
